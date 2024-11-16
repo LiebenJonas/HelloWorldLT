@@ -1,0 +1,175 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global/global}
+  \entry{Aimonen_Petteri.2009}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=AP}{%
+         family={Aimonen},
+         familyi={A\bibinitperiod},
+         given={Petteri},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AP1}
+    \strng{fullhash}{AP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{note}{(zuletzt geprüft: 12.11.2024)}
+    \field{title}{File:Animal echolocation.svg - Wikimedia Commons}
+    \verb{url}
+    \verb https://commons.wikimedia.org/wiki/File:Animal_echolocation.svg?usela
+    \verb ng=en#Licensing
+    \endverb
+    \field{year}{2009}
+    \field{urlday}{12}
+    \field{urlmonth}{11}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{Bernstein_Herbert.2020}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=BH}{%
+         family={Bernstein},
+         familyi={B\bibinitperiod},
+         given={Herbert},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {ger}%
+    }
+    \list{publisher}{1}{%
+      {Springer Vieweg Wiesbaden}%
+    }
+    \keyw{Electronics and Microelectronics, Instrumentation, Control, Robotics, Mechatronics, Circuits and Systems, Electronic Circuits and Devices}
+    \strng{namehash}{BH1}
+    \strng{fullhash}{BH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{isbn}{978-3-658-30067-8}
+    \field{title}{Mikrocontroller}
+    \field{year}{2020}
+  \endentry
+
+  \entry{IoTspace.dev}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=FK}{%
+         family={Friedemann},
+         familyi={F\bibinitperiod},
+         given={Kevin},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FK1}
+    \strng{fullhash}{FK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{(zuletzt geprüft: 12.11.2024)}
+    \field{title}{HC-SR04 Ultraschallsensor - Anleitung und Pinout » IoTspace.dev}
+    \verb{url}
+    \verb https://iotspace.dev/hc-sr04-ultraschallsensor-anleitung-und-pinout/
+    \endverb
+    \field{year}{2021}
+    \field{urlday}{12}
+    \field{urlmonth}{11}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{Raabe_Armin_Holstein_Peter.2021}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=RPAuH}{%
+         family={Raabe},
+         familyi={R\bibinitperiod},
+         suffix={Armin und\bibnamedelima Holstein},
+         suffixi={A\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim H\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {ger}%
+    }
+    \list{publisher}{1}{%
+      {Springer Vieweg Wiesbaden}%
+    }
+    \keyw{Schallgeschwindigkeit}
+    \strng{namehash}{RAuHP1}
+    \strng{fullhash}{RAuHP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{isbn}{978-3-658-33324-9}
+    \field{title}{Akustik und Raumklima}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Thomas_Christian.1965}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=TC}{%
+         family={Thomas},
+         familyi={T\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {ger}%
+    }
+    \list{publisher}{1}{%
+      {Carl Hanser Verlag}%
+    }
+    \keyw{Sensortypen}
+    \strng{namehash}{TC1}
+    \strng{fullhash}{TC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Berührungslos arbeitende Abstandssensoren in der Landtechnik}
+    \verb{url}
+    \verb https://440ejournals.uni-hohenheim.de/index.php/Grundlagen/article/vi
+    \verb ew/236/188
+    \endverb
+    \field{year}{1965}
+  \endentry
+
+  \entry{HSHL.2023}{online}{}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{note}{(zuletzt geprüft: 09.11.2024)}
+    \field{title}{Ultraschall Abstandssensor HC-SR04}
+    \verb{url}
+    \verb https://wiki.hshl.de/wiki/index.php/Ultraschall_Abstandssensor_HC-SR0
+    \verb 4
+    \endverb
+    \field{year}{2023}
+    \field{urlday}{09}
+    \field{urlmonth}{11}
+    \field{urlyear}{2024}
+  \endentry
+\enddatalist
+\endinput
