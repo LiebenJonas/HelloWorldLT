@@ -71,6 +71,33 @@
     \field{year}{2020}
   \endentry
 
+  \entry{Cameron_Neil.2021}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=CN}{%
+         family={Cameron},
+         familyi={C\bibinitperiod},
+         given={Neil},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \list{publisher}{1}{%
+      {Apress Berkeley, CA}%
+    }
+    \keyw{ESP8266, ESP32, Electronics, Microcontrollers, WiFi Communications, Internet Access, Bluetooth, AJAX, WebSockets, GPS, Internet radio, Remote Control, RF communications}
+    \strng{namehash}{CN1}
+    \strng{fullhash}{CN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{isbn}{978-1-4842-6336-5}
+    \field{title}{Electronics Projects with the ESP8266 and ESP32}
+    \field{year}{2021}
+  \endentry
+
   \entry{IoTspace.dev}{online}{}{}
     \name{author}{1}{}{%
       {{hash=FK}{%
@@ -99,13 +126,13 @@
 
   \entry{Raabe_Armin_Holstein_Peter.2021}{book}{}{}
     \name{author}{1}{}{%
-      {{hash=RPAuH}{%
-         family={Raabe},
-         familyi={R\bibinitperiod},
-         suffix={Armin und\bibnamedelima Holstein},
-         suffixi={A\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim H\bibinitperiod},
-         given={Peter},
-         giveni={P\bibinitperiod},
+      {{hash=uPHAR}{%
+         prefix={und},
+         prefixi={u\bibinitperiod},
+         family={Peter\bibnamedelima Holstein},
+         familyi={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+         given={Armin\bibnamedelima Raabe},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
       }}%
     }
     \list{language}{1}{%
@@ -115,15 +142,42 @@
       {Springer Vieweg Wiesbaden}%
     }
     \keyw{Schallgeschwindigkeit}
-    \strng{namehash}{RAuHP1}
-    \strng{fullhash}{RAuHP1}
+    \strng{namehash}{PHARu1}
+    \strng{fullhash}{PHARu1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{sortinit}{R}
-    \field{sortinithash}{R}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
     \field{isbn}{978-3-658-33324-9}
     \field{title}{Akustik und Raumklima}
     \field{year}{2021}
+  \endentry
+
+  \entry{Winner_Hermann_Hakuli_Stephan_Wolf_Gabriele.2009}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=SHHWuGW}{%
+         family={Stephan\bibnamedelima Hakuli},
+         familyi={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+         given={Hermann Winner und Gabriele\bibnamedelima Wolf},
+         giveni={H\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {ger}%
+    }
+    \list{publisher}{1}{%
+      {Vieweg+Teubner Verlag Wiesbaden}%
+    }
+    \keyw{ABS,ACC,Antiblockiersystem,EVITA,Elektronisches Stabilitätsprogramm,Fahrdynamik,Fahrerassistenzsystem,Fahrzeug,Fußgängerdetektion,Leistungsfähigkeit,Mensch-Maschine-Schnittstelle,Nutzfahrzeug,Radarsensorik,Sicherheit,Vehicle-in-the-Look-Verfahren}
+    \strng{namehash}{SHHWuGW1}
+    \strng{fullhash}{SHHWuGW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{isbn}{978-3-8348-9977-4}
+    \field{title}{Handbuch Fahrerassistenzsysteme}
+    \field{year}{2009}
   \endentry
 
   \entry{Thomas_Christian.1965}{book}{}{}
@@ -154,6 +208,33 @@
     \verb ew/236/188
     \endverb
     \field{year}{1965}
+  \endentry
+
+  \entry{Tille_Thomas.2016}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=TT}{%
+         family={Tille},
+         familyi={T\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {ger}%
+    }
+    \list{publisher}{1}{%
+      {Springer Vieweg Berlin, Heidelberg}%
+    }
+    \keyw{Automobil,Bendiensensorik,Bordnetzsensorik,Fahrerassistenzsensorik,Fahrwerkssensorik/-sensoren,Getriebesensorik,Klimasensorik,Mediensensorik,Mototsensorik,Sensoren,Sensorik,Sensorprinzip,Sensorsystem,Sicherheitssensorik}
+    \strng{namehash}{TT1}
+    \strng{fullhash}{TT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{isbn}{978-3-662-48944-4}
+    \field{title}{Handbuch Fahrerassistenzsysteme}
+    \field{year}{2016}
   \endentry
 
   \entry{HSHL.2023}{online}{}{}

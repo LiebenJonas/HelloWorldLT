@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.1)  12 NOV 2024 22:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.1)  17 NOV 2024 14:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1800,22 +1800,20 @@ Package tocbasic Info: character protrusion at lol deactivated on input line 94.
 ] (./content/01kapitel.tex
 chapter 1.
 
-LaTeX Warning: Citation 'Online.2022' on page 1 undefined on input line 7.
-
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 26.
-(d:/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.27 	\subitem
-               Übergabe von HTML, JS und CSS, wobei JS-schicht die Daten li... [1
+l.18 
+      [1
 
 
-]) (./content/02kapitel.tex
+]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 21.
+ (d:/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)) (./content/02kapitel.tex
 
 
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
@@ -1823,48 +1821,48 @@ Overfull \vbox (7.89444pt too high) has occurred while \output is active []
  [2{d:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
 chapter 2.
 Package acronym Info: Label `acro:WLAN' newly defined as it shall be overridden
-although it is yet undefined on input line 8.
-<images/Bat_Echo.png, id=215, 1284.8pt x 991.705pt>
+although it is yet undefined on input line 10.
+<images/Bat_Echo.png, id=211, 1284.8pt x 991.705pt>
 File: images/Bat_Echo.png Graphic file (type png)
 <use images/Bat_Echo.png>
-Package pdftex.def Info: images/Bat_Echo.png  used on input line 18.
+Package pdftex.def Info: images/Bat_Echo.png  used on input line 20.
 (pdftex.def)             Requested size: 1284.79688pt x 991.70259pt.
 
 
 [3
 
 ]
-<images/HC-SR04_Sensor.png, id=225, 303.753pt x 160.965pt>
+<images/HC-SR04_Sensor.png, id=223, 303.753pt x 160.965pt>
 File: images/HC-SR04_Sensor.png Graphic file (type png)
 <use images/HC-SR04_Sensor.png>
-Package pdftex.def Info: images/HC-SR04_Sensor.png  used on input line 32.
+Package pdftex.def Info: images/HC-SR04_Sensor.png  used on input line 34.
 (pdftex.def)             Requested size: 303.75226pt x 160.96458pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--58
+Underfull \hbox (badness 10000) in paragraph at lines 38--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--58
+Underfull \hbox (badness 10000) in paragraph at lines 38--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--58
+Underfull \hbox (badness 10000) in paragraph at lines 38--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--58
+Underfull \hbox (badness 10000) in paragraph at lines 38--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--58
+Underfull \hbox (badness 10000) in paragraph at lines 38--60
 
  []
 
@@ -1874,7 +1872,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--58
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
  [4 <./images/Bat_Echo.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 61--64
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
 
  []
 
@@ -1890,21 +1888,19 @@ Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
  [6]
 Package acronym Info: Label `acro:ISO' newly defined as it shall be overridden
-although it is yet undefined on input line 80.
+although it is yet undefined on input line 87.
 
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Overfull \vbox (7.89444pt too high) has occurred while \output is active []
-
- [7]
 Package acronym Info: Label `acro:HTTP' newly defined as it shall be overridden
-although it is yet undefined on input line 100.
+although it is yet undefined on input line 107.
 Package acronym Info: Label `acro:HTML' newly defined as it shall be overridden
-although it is yet undefined on input line 101.
+although it is yet undefined on input line 108.
 Package acronym Info: Label `acro:HTTPS' newly defined as it shall be overridden
-although it is yet undefined on input line 102.
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--103
+although it is yet undefined on input line 109.
+) (./content/03kapitel.tex
+Underfull \hbox (badness 10000) in paragraph at lines 107--2
 
  []
 
@@ -1913,7 +1909,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 100--103
 
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
- [8]) (./content/03kapitel.tex
+ [7]
+
+
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+
+ [8]
 
 
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
@@ -1941,6 +1942,11 @@ Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
  [12]
 chapter 4.
+
+Overfull \hbox (9.66751pt too wide) in paragraph at lines 5--8
+\T1/lmr/m/n/12 (-20) In die-ser Ar-beit wur-de ein Sys-tem ent-wi-ckelt, wel-ches mit-hil-fe ei-nes ESP8266-Mikrocontrollers
+ []
+
 ) (./content/05kapitel.tex
 
 [13
@@ -2032,18 +2038,18 @@ Package logreq Info: Writing requests to 'dokumentation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 62282 strings out of 473577
- 1368503 string characters out of 5732225
- 2531614 words of memory out of 5000000
- 83823 multiletter control sequences out of 15000+600000
- 638645 words of font info for 159 fonts, out of 8000000 for 9000
+ 62341 strings out of 473577
+ 1370434 string characters out of 5732225
+ 2533075 words of memory out of 5000000
+ 83878 multiletter control sequences out of 15000+600000
+ 638994 words of font info for 162 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  120i,11n,134p,10967b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmro12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on dokumentation.pdf (26 pages, 944150 bytes).
+Output written on dokumentation.pdf (26 pages, 945157 bytes).
 PDF statistics:
- 536 PDF objects out of 1000 (max. 8388607)
- 450 compressed objects within 5 object streams
- 101 named destinations out of 1000 (max. 500000)
- 49589 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 522 PDF objects out of 1000 (max. 8388607)
+ 435 compressed objects within 5 object streams
+ 99 named destinations out of 1000 (max. 500000)
+ 49549 words of extra memory for PDF output out of 51595 (max. 10000000)
 

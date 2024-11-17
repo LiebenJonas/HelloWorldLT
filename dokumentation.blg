@@ -24,45 +24,45 @@ Warning--I didn't find a database entry for "Online.2022"
 Biblatex version: 3.20
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 7 entries,
+You've used 10 entries,
             6402 wiz_defined-function locations,
-            1250 strings with 10258 characters,
-and the built_in function-call counts, 34861 in all, are:
-= -- 2129
-> -- 1349
-< -- 263
-+ -- 1348
-- -- 863
-* -- 1979
-:= -- 3675
+            1272 strings with 11347 characters,
+and the built_in function-call counts, 55823 in all, are:
+= -- 3827
+> -- 1679
+< -- 428
++ -- 1719
+- -- 935
+* -- 3419
+:= -- 5520
 add.period$ -- 0
-call.type$ -- 7
-change.case$ -- 133
+call.type$ -- 10
+change.case$ -- 256
 chr.to.int$ -- 114
-cite$ -- 12
-duplicate$ -- 3368
-empty$ -- 3108
-format.name$ -- 242
-if$ -- 6854
+cite$ -- 18
+duplicate$ -- 5192
+empty$ -- 5118
+format.name$ -- 389
+if$ -- 11466
 int.to.chr$ -- 0
-int.to.str$ -- 17
+int.to.str$ -- 29
 missing$ -- 0
-newline$ -- 175
-num.names$ -- 300
-pop$ -- 2031
+newline$ -- 256
+num.names$ -- 531
+pop$ -- 3027
 preamble$ -- 1
-purify$ -- 142
+purify$ -- 271
 quote$ -- 0
-skip$ -- 1232
+skip$ -- 1982
 stack$ -- 0
-substring$ -- 3624
-swap$ -- 896
-text.length$ -- 189
-text.prefix$ -- 6
+substring$ -- 6850
+swap$ -- 1367
+text.length$ -- 264
+text.prefix$ -- 9
 top$ -- 1
-type$ -- 226
+type$ -- 328
 warning$ -- 0
-while$ -- 408
+while$ -- 570
 width$ -- 0
-write$ -- 169
+write$ -- 247
 (There was 1 warning)
